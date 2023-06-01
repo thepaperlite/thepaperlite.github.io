@@ -19,4 +19,4 @@ Download the Greyscale Extension from the Chrome Web Store and start enjoying a 
 
 Join us in fostering inclusivity and making the web a more accessible space for all.
 
-![Greyscale Extension Logo](splash-page-logo.png)
+
